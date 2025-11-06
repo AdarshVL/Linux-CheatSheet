@@ -92,7 +92,7 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 
 ## ⚙️ Process Management
 
-```
+
 | Command          | Description                      |
 | ---------------- | -------------------------------- |
 | `ps`             | Display running processes        |
@@ -103,12 +103,12 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `jobs`           | List background jobs             |
 | `top`            | Monitor running processes        |
 
-```
+
 
 ---
 ## 🌐 Networking
 
-```
+
 | Command                      | Description                    |
 | ---------------------------- | ------------------------------ |
 | `ping [host]`                | Check network connectivity     |
@@ -121,13 +121,13 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `ssh user@host`              | Connect to remote host via SSH |
 
 
-```
+
 ---
 ## 📦 Package Management
 
 ### 🧩 Ubuntu / Debian
 
-```
+
 | Command                      | Description              |
 | ---------------------------- | ------------------------ |
 | `sudo apt update`            | Update package index     |
@@ -136,22 +136,22 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `sudo apt remove [package]`  | Remove a package         |
 | `sudo apt autoremove`        | Clean up unused packages |
 
-```
+
 ---
 ## 🎯 Red Hat / CentOS
 
-```
+
 | Command                      | Description     |
 | ---------------------------- | --------------- |
 | `sudo yum update`            | Update packages |
 | `sudo yum install [package]` | Install package |
 
-```
+
 
 ---
 ## 💽 Disk Management
 
-```
+
 | Command                | Description         |
 | ---------------------- | ------------------- |
 | `lsblk`                | List block devices  |
@@ -160,11 +160,10 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `mount [device] [dir]` | Mount disk          |
 | `umount [dir]`         | Unmount disk        |
 
-```
 ---
 ## 📦 Compression & Archiving
 
-```
+
 | Command                        | Description         |
 | ------------------------------ | ------------------- |
 | `tar -cvf archive.tar [files]` | Create tar archive  |
@@ -174,12 +173,11 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `zip [file.zip] [files]`       | Create zip file     |
 | `unzip [file.zip]`             | Extract zip file    |
 
-```
+
 
 ---
 ## 🔍 Search & Filters
 
-```
 | Command                       | Description                |
 | ----------------------------- | -------------------------- |
 | `grep [pattern] [file]`       | Search for pattern in file |
@@ -189,12 +187,12 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `uniq`                        | Remove duplicate lines     |
 | `wc -l [file]`                | Count lines in file        |
 
-```
+
 
 ---
 ## 📊 System Monitoring
 
-```
+
 | Command  | Description                 |
 | -------- | --------------------------- |
 | `top`    | View running processes      |
@@ -203,12 +201,12 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `vmstat` | System performance stats    |
 | `dmesg`  | Kernel ring buffer messages |
 
-```
+
 
 ---
 ## ⚡ Shell Shortcuts
 
-```
+
 | Shortcut       | Description               |                        |
 | -------------- | ------------------------- | ---------------------- |
 | `Ctrl + C`     | Kill current process      |                        |
@@ -218,7 +216,7 @@ A concise and practical **Linux Command Cheat Sheet** — perfect for beginners,
 | `history       | grep [command]`           | Search command history |
 | `Ctrl + A / E` | Move to start/end of line |                        |
 
-```
+
 
 ---
 ## 💡 Bonus: Useful One-Liners
